@@ -7,6 +7,7 @@ public class User {
 	private String nickname;
 	//Alt+Shift+S => Generate getters and setters
 	//final
+	//tag test
 	
 	public User() {}
 	
