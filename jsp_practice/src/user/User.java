@@ -6,7 +6,6 @@ public class User {
 	private String name;
 	private String nickname;
 	//Alt+Shift+S => Generate getters and setters
-	//¼öÁ¤
 	
 	public User() {}
 	
